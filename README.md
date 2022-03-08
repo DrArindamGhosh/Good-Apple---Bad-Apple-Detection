@@ -2,7 +2,7 @@
 To detect between a Good Apple and Bad Apple
 
 
-# ImageAI (v2.1.6)
+# ImageAI
 
 
 
