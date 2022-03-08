@@ -1,5 +1,7 @@
 # Good-Apple---Bad-Apple-Detection
-To detect between a Good Apples and Bad Apples
+
+ Detecting defects in Apples: An AI for counting and detecting damaged apples
+
 
 An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
 
